@@ -11,7 +11,7 @@ Atsakymas:
 
 ![histograma](img/pirmasgrafikas.png)
 
-Išvados:
+Išvados: cia bus kazkas
 
 ### 2.2 Užduotis
 
