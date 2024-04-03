@@ -9,7 +9,7 @@
 
 Atsakymas:
 
-![histograma](img/pirmasgrafikas.png)
+![histograma](img/pirmasGrafikas.png)
 
 Išvados: cia bus kazkas
 
@@ -17,7 +17,7 @@ Išvados: cia bus kazkas
 
 Atsakymas:
 
-![atlyginimai](img/antrasGrafikas.png)
+![atlyginimai](img/antrasgrafikas.png)
 
 Išvados:
 
